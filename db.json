@@ -1,0 +1,22 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "password": "k7!Qm2@Lp9",
+            "length": 10,
+            "useDigits": true,
+            "useLetters": true,
+            "useSymbols": true,
+            "createdAt": "2026-05-05T10:15:00"
+        },
+        {
+            "id": 2,
+            "password": "A8mT4pX1",
+            "length": 8,
+            "useDigits": true,
+            "useLetters": true,
+            "useSymbols": false,
+            "createdAt": "2026-05-05T10:18:00"
+        }
+    ]
+}
